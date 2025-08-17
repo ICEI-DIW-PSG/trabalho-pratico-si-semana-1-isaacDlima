@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Isaac de Oliveira Lima
+Matricula: 898044
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção navegador xbox](images/navegador.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Projeto do Replit](images/Replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
